@@ -1,0 +1,41 @@
+/COM,ANSYS RELEASE 2022 R2           BUILD 22.2      UP20220516       22:54:57
+
+ *** WARNING ***                         CP =       0.125   TIME= 22:54:57
+ Element shape checking is currently inactive.  Issue SHPP,ON or         
+ SHPP,WARN to reactivate, if desired.                                    
+
+ *** WARNING ***                         CP =       0.125   TIME= 22:54:57
+ MPC184 elements are being used in the current analysis and the          
+ NLGEOM,ON command has not been used.  Thus, only linearized behavior    
+ will be considered.  If finite rotation and large deflection effects    
+ are to be considered, please use the NLGEOM,ON command.                 
+
+ *** WARNING ***                         CP =       0.156   TIME= 22:54:57
+ Material number 14 (used by element 10715) should normally have at      
+ least one MP or one TB type command associated with it.  Output of      
+ energy by material may not be available.                                
+
+ *** WARNING ***                         CP =       0.625   TIME= 22:54:58
+ Maximum friction coefficient 0.22 is defined in the model.  Switch to   
+ the unsymmetric solver (NROP,UNSYM) instead if convergence difficulty   
+ is encountered.                                                         
+
+ *** WARNING ***                         CP =       1.109   TIME= 22:54:58
+ For element 10715 the element connectivity is 0 and 13363.  The node    
+ which is identified as a 0 will be a grounded node.                     
+
+ *** WARNING ***                         CP =       1.109   TIME= 22:54:58
+ The sparse solver must be used if any current technology elements with  
+ u-P formulation or MPC184 elements using Lagrangian multiplier          
+ entangle with other contraint equtions.  The equation solver option     
+ has been switched to the sparse solver.                                 
+
+ *** WARNING ***                         CP =       1.234   TIME= 22:54:58
+ For element 10715 the element connectivity is 0 and 13363.  The node    
+ which is identified as a 0 will be a grounded node.                     
+
+ *** WARNING ***                         CP =       1.453   TIME= 22:54:59
+ Pivoting has been activated for the Distributed Sparse Matrix Solver .  
+ The memory required may greatly exceed the predicted amount.  In that   
+ event, use the DSPOPTION command to change the memory mode and/or       
+ memory size used by the Distributed Sparse Matrix Solver.               
